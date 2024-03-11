@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 1%;
+    background-color: coral;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+
+
+.menu{
+    padding: 4%;
+    background-color: #fff ;
+    padding-left: 40%;
+
+}
+
+.Pudim{
+
+    border-radius: 10px ;
+    height: 150px;
+    width: 260px;
+}
+
+
+.Bolodemilho{
+
+    border-radius: 10px;
+    height: 150px;
+    width: 260px;
+
+}
+
+.Lasanha{
+
+    border-radius: 10px;
+    height: 150px;
+    width: 260px;
+    
+}
+
+.Pudim2{
+
+    height: 200px;
+    width: 100%;
+}
+
+.bolo2{
+
+    height: 200px;
+    width: 100%;
+
+}
+
+.Lasanha2{
+
+    height: 250px;
+    width: 100%;
+
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    padding-left: 14%;
+}
+
+.IE{
+    list-style-type: none;
+    background-color: coral;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+}
+
+.LW{
+
+    color: #fff;
+    text-decoration: none;
+}
+
+.LW:hover{
+    background-color: rgb(255, 255, 255);    
+    color: coral;
+}
+
+footer{
+    background-color: coral;
+    height: 70px;
+    margin: 1px;
+}
+
+.receitapudim{
+    color: #000;
+    padding: 10px;
+    margin: 20px;
+}
